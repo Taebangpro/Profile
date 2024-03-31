@@ -1,0 +1,181 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Lato", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+    background-color: #D0FAF0;
+}
+.manu {
+    background-color: #44FACF;
+    padding-left: 20px;
+    font-size: 35px;
+    color: white;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+}
+.name-item {
+    padding-left: 50px;
+    display: inline-block;
+    text-decoration: none;
+}
+.name-item2 {
+    padding: 20px;
+    display: inline-block;
+    text-decoration: none;
+    font-weight: 35px;
+    font-size: 35px;
+    color: white;
+}
+.welcome {
+    width: 50%;
+    color: rgb(0, 0, 0);
+    margin-top: 15%;
+    margin-left: 5%;
+    font-size: 50px;
+    width: 37%;
+}
+.profile {
+    margin-top: -13%;
+    margin-left: 65%;
+    height: 80%;
+}
+.menu-bar {
+    background-color: #44FACF;
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+    position: fixed;
+    margin-top: -15%;
+    width: 100%;
+}
+.item {
+    color: white;
+    font-size: 40px;
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 14px;
+    text-decoration: none;
+}
+.item.title {
+    padding-left: 50px;
+}
+.picture {
+    margin-top: 9%;
+    margin-left: 5%;
+    height: 70%;
+}
+.kuy {
+    height: 150px;
+}
+.team {
+    border: 1px solid rgb(255, 255, 255);
+    color: rgb(61, 189, 189);
+    width: 350px;
+    margin-left: 700px;
+    margin-top: -33%;
+    box-shadow: 2px 2px 8px 4px rgba(0, 0, 0, 0.1);
+}
+.background {
+    background-color: white;
+}
+.team2 {
+    border: 1px solid rgb(255, 255, 255);
+    color: rgb(61, 189, 189);
+    width: 350px;
+    margin-left: 1300px;
+    margin-top: -15%;
+    box-shadow: 2px 2px 8px 4px rgba(0, 0, 0, 0.1);
+}
+.team3 {
+    border: 1px solid rgb(255, 255, 255);
+    color: rgb(61, 189, 189);
+    width: 350px;
+    margin-left: 1300px;
+    margin-top: 1%;
+    box-shadow: 2px 2px 8px 4px rgba(0, 0, 0, 0.1);
+}
+h2 {
+    color: black;
+}
+h3 {
+    color: black;
+}
+.school {
+    width: 1%;
+}
+.smith {
+    width: 5%;
+    margin-top: -7%;
+    margin-left: 1180px;
+}
+.rst {
+    width: 9%;
+    margin-top: -4%;
+    margin-left: 1145px;
+}
+.team4 {
+    border: 1px solid rgb(255, 255, 255);
+    color: rgb(61, 189, 189);
+    width: 350px;
+    margin-left: 775px;
+    margin-top: -18%;
+    width: 276px;
+    box-shadow: 2px 2px 8px 4px rgba(0, 0, 0, 0.1);
+}
+.face {
+    width: 3%;
+    position: relative;
+    left: -610px;
+    top: -204px;
+}
+.phone {
+    width: 3%;
+    position: relative;
+    left: -670px;
+    top: -260px;
+}
+.email {
+    width: 3%;
+    position: relative;
+    left: -790px;
+    top: -146px;
+}
+.ig {
+    width: 3%;
+    position: relative;
+    left: -730px;
+    top: -90px;
+}
+.button {
+    background-color: 44FACF;
+    width: 10%;
+    padding: 1px;
+    margin-left: 225px;
+    text-align: center;
+    margin-top: -4%;
+    margin-bottom: 100px;
+    font-size: 30px;
+    border-radius: 40px;
+}
+.ผลงาน {
+    text-decoration: none;
+    color: white;
+}
+.life {
+    margin-left: 100px;
+    margin-top: 2px;
+    width: 600px;
+}
+.downlode {
+    font-size: 20px;
+    padding: 10px;
+    position: relative;
+    left: 100px;
+    top: -490px;
+    color: white;
+    background-color: #44FACF;
+    border-radius: 40px;
+    text-decoration: none;
+}
